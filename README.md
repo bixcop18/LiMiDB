@@ -1,2 +1,2 @@
 # LiMiDB
-Livestock Microbiome Dataabse Project
+Livestock Microbiome Database Project
